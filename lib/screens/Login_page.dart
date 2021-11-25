@@ -21,7 +21,8 @@ class LoginPage extends StatelessWidget {
           children: <Widget>[
             SizedBox(height: 80,),
             Header(),
-            Expanded(child: Container(
+            Expanded(
+                child: Container(
               decoration: BoxDecoration(
                   color: Colors.white,
                   borderRadius: BorderRadius.only(
