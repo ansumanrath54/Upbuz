@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:social_media_app_starter/screens/onboarding_screen.dart';
+import 'package:social_media_app_starter/screens/user_details.dart';
 
 void main() => runApp(MyApp());
 
