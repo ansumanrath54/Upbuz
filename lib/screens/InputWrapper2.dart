@@ -17,7 +17,7 @@ class InputWrapper2 extends StatelessWidget {
       padding: EdgeInsets.all(30),
       child: Column(
         children: <Widget>[
-          SizedBox(height: 40,),
+          SizedBox(height: 20),
           Container(
             decoration: BoxDecoration(
                 color: Colors.white,

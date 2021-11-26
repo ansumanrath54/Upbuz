@@ -20,7 +20,7 @@ class SignUp extends StatelessWidget {
         ),
         child: Column(
           children: <Widget>[
-            SizedBox(height: 80,),
+            SizedBox(height: 20,),
             Header2(),
             Expanded(child: Container(
               decoration: BoxDecoration(

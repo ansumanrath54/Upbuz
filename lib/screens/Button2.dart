@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:social_media_app_starter/screens/Signup.dart';
+import 'package:social_media_app_starter/screens/user_details.dart';
 
 class Button2 extends StatelessWidget{
   @override
@@ -25,7 +26,7 @@ class Button2 extends StatelessWidget{
         Navigator.push(
             context,
             MaterialPageRoute(
-            builder: (context) => SignUp(),
+            builder: (context) => UserDetails(),
         ),
         );
       }
